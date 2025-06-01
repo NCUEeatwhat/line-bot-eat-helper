@@ -370,7 +370,7 @@ def handle_message(event):
     if user_message in responses:
         reply_text = random.choice(responses[user_message])
     else:
-        reply_text = "請輸入「早餐」「午餐」「晚餐」「宵夜」「點心」「飲料」來獲得推薦喔！"
+        reply_text = "呱？？\n請輸入「早餐」「午餐」「晚餐」「宵夜」「點心」「飲料」來獲得推薦喔！"
 
     with ApiClient(configuration) as api_client:
         line_bot_api = MessagingApi(api_client)
