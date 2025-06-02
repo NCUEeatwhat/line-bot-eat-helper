@@ -370,7 +370,7 @@ def handle_message(event):
     if user_message in responses:
         reply_text = random.choice(responses[user_message])
     else:
-        reply_text = "呱？Sorry，我們無法個別回覆您😞\n請點選「早餐」、「午餐」、「晚餐」、「宵夜」、「點心」、「飲料」來獲得推薦吧！\n\n如果有任何問題或建議，歡迎填寫表單來告訴我們唷～https://forms.gle/57cf7gsHoRMuPyhN6"
+        reply_text = "呱？Sorry，我們無法個別回覆您😞請點選「早餐」、「午餐」、「晚餐」、「宵夜」、「點心」、「飲料」來獲得推薦吧！\n\n如果有任何問題或建議，歡迎填寫表單來告訴我們唷～\nhttps://forms.gle/57cf7gsHoRMuPyhN6"
 
     with ApiClient(configuration) as api_client:
         line_bot_api = MessagingApi(api_client)
