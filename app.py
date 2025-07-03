@@ -26,7 +26,7 @@ handler = WebhookHandler(CHANNEL_SECRET)
 responses = {
     "早餐": [
         "登登登登～☀️\n\n今日早餐推薦🥪：「如意樂活蔬食早午餐」\n\n距離校門口「步行1️⃣分鐘」\n\n詳細資訊：https://maps.app.goo.gl/zTDE2dpqtRpBnzDq6?g_st=com.google.maps.preview.copy",
-        "登登登登～☀️\n\n今日早餐推薦🥪：「711」\n\n距離校門口「步行1️⃣分鐘」\n\n詳細資訊：https://maps.app.goo.gl/PJLd53hRzE2gDyct8",
+        "登登登登～☀️\n\n今日早餐推薦🥪：「7-11」\n\n距離校門口「步行1️⃣分鐘」\n\n詳細資訊：https://maps.app.goo.gl/PJLd53hRzE2gDyct8",
         "登登登登～☀️\n\n今日早餐推薦🥪：「太陽漢堡」\n\n距離校門口「步行3️⃣分鐘」\n\n詳細資訊：https://maps.app.goo.gl/khbnBb6iczgJYd5k6?g_st=com.google.maps.preview.copy",
         "登登登登～☀️\n\n今日早餐推薦🥪：「麥田早點」\n\n距離校門口「步行3️⃣分鐘」\n\n詳細資訊：https://maps.app.goo.gl/xNRBBWYbgj5fUQEw9",
         "登登登登～☀️\n\n今日早餐推薦🥪：「拉亞漢堡」\n\n距離校門口「步行3️⃣分鐘」\n\n詳細資訊：https://maps.app.goo.gl/QYdPzgZeiNbvFqHo8",
@@ -54,7 +54,7 @@ responses = {
         "登登登登～🕛\n\n今日午餐推薦🍱：「義朵義麵坊」\n\n距離校門口「步行1️⃣分鐘」\n\n詳細資訊：https://maps.app.goo.gl/cf9CJeLgQwyPQ4Wy8?g_st=com.google.maps.preview.copy",
         "登登登登～🕛\n\n今日午餐推薦🍱：「左岸小吃」\n\n距離校門口「步行1️⃣分鐘」\n\n詳細資訊：https://maps.app.goo.gl/NQTdrUx7NTpuhTH56?g_st=com.google.maps.preview.copy",
         "登登登登～🕛\n\n今日午餐推薦🍱：「迪迪鬆餅店」\n\n距離校門口「步行1️⃣分鐘」\n\n詳細資訊：https://maps.app.goo.gl/SuyxgHnKrGwnAuHi6?g_st=com.google.maps.preview.copy",
-        "登登登登～🕛\n\n今日午餐推薦🍱：「711」\n\n距離校門口「步行1️⃣分鐘」\n\n詳細資訊：https://maps.app.goo.gl/5J2rsuzTbaCBqPqJ9?g_st=com.google.maps.preview.copy",
+        "登登登登～🕛\n\n今日午餐推薦🍱：「7-11」\n\n距離校門口「步行1️⃣分鐘」\n\n詳細資訊：https://maps.app.goo.gl/5J2rsuzTbaCBqPqJ9?g_st=com.google.maps.preview.copy",
         "登登登登～🕛\n\n今日午餐推薦🍱：「蓋飯家族」\n\n距離校門口「步行1️⃣分鐘」\n\n詳細資訊：https://maps.app.goo.gl/2XcNRDsHbMupr3JcA?g_st=com.google.maps.preview.copy",
         "登登登登～🕛\n\n今日午餐推薦🍱：「寶記港式麵館」\n\n距離校門口「步行1️⃣分鐘」\n\n詳細資訊：https://maps.app.goo.gl/KN5ctvRFs7nNcKrh9?g_st=com.google.maps.preview.copy",
         "登登登登～🕛\n\n今日午餐推薦🍱：「如意樂活蔬食早午餐」\n\n距離校門口「步行1️⃣分鐘」\n\n詳細資訊：https://maps.app.goo.gl/zTDE2dpqtRpBnzDq6?g_st=com.google.maps.preview.copy",
@@ -143,7 +143,7 @@ responses = {
         "登登登登～🕕\n\n今日晚餐推薦🍜：「義朵義麵坊」\n\n距離校門口「步行1️⃣分鐘」\n\n詳細資訊：https://maps.app.goo.gl/cf9CJeLgQwyPQ4Wy8?g_st=com.google.maps.preview.copy",
         "登登登登～🕕\n\n今日晚餐推薦🍜：「左岸小吃」\n\n距離校門口「步行1️⃣分鐘」\n\n詳細資訊：https://maps.app.goo.gl/NQTdrUx7NTpuhTH56?g_st=com.google.maps.preview.copy",
         "登登登登～🕕\n\n今日晚餐推薦🍜：「迪迪鬆餅店」\n\n距離校門口「步行1️⃣分鐘」\n\n詳細資訊：https://maps.app.goo.gl/SuyxgHnKrGwnAuHi6?g_st=com.google.maps.preview.copy",
-        "登登登登～🕕\n\n今日晚餐推薦🍜：「711」\n\n距離校門口「步行1️⃣分鐘」\n\n詳細資訊：https://maps.app.goo.gl/5J2rsuzTbaCBqPqJ9?g_st=com.google.maps.preview.copy",
+        "登登登登～🕕\n\n今日晚餐推薦🍜：「7-11」\n\n距離校門口「步行1️⃣分鐘」\n\n詳細資訊：https://maps.app.goo.gl/5J2rsuzTbaCBqPqJ9?g_st=com.google.maps.preview.copy",
         "登登登登～🕕\n\n今日晚餐推薦🍜：「蓋飯家族」\n\n距離校門口「步行1️⃣分鐘」\n\n詳細資訊：https://maps.app.goo.gl/2XcNRDsHbMupr3JcA?g_st=com.google.maps.preview.copy",
         "登登登登～🕕\n\n今日晚餐推薦🍜：「寶記港式麵館」\n\n距離校門口「步行1️⃣分鐘」\n\n詳細資訊：https://maps.app.goo.gl/KN5ctvRFs7nNcKrh9?g_st=com.google.maps.preview.copy",
         "登登登登～🕕\n\n今日晚餐推薦🍜：「海盜飯鋪」\n\n距離校門口「步行1️⃣分鐘」\n\n詳細資訊：https://maps.app.goo.gl/uRGx8G91thY27ByP8?g_st=com.google.maps.preview.copy",
@@ -228,43 +228,30 @@ responses = {
     ],
 
     "宵夜": [
-        "登登登登～🍢\n\n今日宵夜推薦🌙：「左岸小吃」\n\n距離校門口「步行1️⃣分鐘」\n\n詳細資訊：https://maps.app.goo.gl/NQTdrUx7NTpuhTH56?g_st=com.google.maps.preview.copy",
+    
         "登登登登～🍢\n\n今日宵夜推薦🌙：「7-11」\n\n距離校門口「步行1️⃣分鐘」\n\n詳細資訊：https://maps.app.goo.gl/5J2rsuzTbaCBqPqJ9?g_st=com.google.maps.preview.copy",
         "登登登登～🍢\n\n今日宵夜推薦🌙：「我家炸雞」\n\n距離校門口「步行1️⃣分鐘」\n\n詳細資訊：https://maps.app.goo.gl/hcoBoASa6TSQSew59?g_st=com.google.maps.preview.copy",
-        "登登登登～🍢\n\n今日宵夜推薦🌙：「故鄉滷味」\n\n距離校門口「步行2️⃣分鐘」\n\n詳細資訊：https://maps.app.goo.gl/a3a6i3nMfhEV4FUk6?g_st=com.google.maps.preview.copy",
-        "登登登登～🍢\n\n今日宵夜推薦🌙：「麥仕佳 烘焙坊」\n\n距離校門口「步行2️⃣分鐘」\n\n詳細資訊：https://maps.app.goo.gl/GwB313VKRhfzxdGVA",
         "登登登登～🍢\n\n今日宵夜推薦🌙：「爆Q美式炸雞」\n\n距離校門口「步行2️⃣分鐘」\n\n詳細資訊：https://maps.app.goo.gl/T2qKp5iduLCrwwqH7",
-        "登登登登～🍢\n\n今日宵夜推薦🌙：「享點雞蛋糕」\n\n距離校門口「步行3️⃣分鐘」\n\n詳細資訊：https://maps.app.goo.gl/2Cny6Doti9JFxGhD8?g_st=com.google.maps.preview.copy",
         "登登登登～🍢\n\n今日宵夜推薦🌙：「無名店剉冰」\n\n距離校門口「步行3️⃣分鐘」\n\n詳細資訊：https://maps.app.goo.gl/DKbJGWU8tZFSTdFG6?g_st=com.google.maps.preview.copy",
         "登登登登～🍢\n\n今日宵夜推薦🌙：「甜點子豆花店」\n\n距離校門口「步行3️⃣分鐘」\n\n詳細資訊：https://maps.app.goo.gl/6ciGdfN2YNhRb4t57?g_st=com.google.maps.preview.copy",
         "登登登登～🍢\n\n今日宵夜推薦🌙：「日香滷味」\n\n距離校門口「步行3️⃣分鐘」\n\n詳細資訊：https://maps.app.goo.gl/PEcof1svivVoe3Kf6",
-        "登登登登～🍢\n\n今日宵夜推薦🌙：「鼎豆芋圓」\n\n距離校門口「步行3️⃣分鐘」\n\n詳細資訊：https://maps.app.goo.gl/1LGoFMHU6LBmkS7w7",
         "登登登登～🍢\n\n今日宵夜推薦🌙：「豪傳說雞排」\n\n距離校門口「步行3️⃣分鐘」\n\n詳細資訊：https://maps.app.goo.gl/a2guMkMY1rDN2f6N9",
         "登登登登～🍢\n\n今日宵夜推薦🌙：「食神滷味」\n\n距離校門口「步行3️⃣分鐘」\n\n詳細資訊：https://maps.app.goo.gl/9x78ggZvs7vdET9EA",
         "登登登登～🍢\n\n今日宵夜推薦🌙：「至尊咔啦脆皮雞排」\n\n距離校門口「步行3️⃣分鐘」\n\n詳細資訊：https://maps.app.goo.gl/UtTQwAAHtdr7hbNdA",
         "登登登登～🍢\n\n今日宵夜推薦🌙：「3Q脆皮雞排」\n\n距離校門口「步行3️⃣分鐘」\n\n詳細資訊：https://maps.app.goo.gl/sVFhXkuyTM8pnXe77",
-        "登登登登～🍢\n\n今日宵夜推薦🌙：「ㄚ潭豆花」\n\n距離校門口「步行4️⃣分鐘」\n\n詳細資訊：https://maps.app.goo.gl/r5Ls378w155jjYtp8?g_st=com.google.maps.preview.copy",
-        "登登登登～🍢\n\n今日宵夜推薦🌙：「八方雲集」\n\n距離校門口「步行4️⃣分鐘」\n\n詳細資訊：https://maps.app.goo.gl/kz54QEhHofkHD6717",
         "登登登登～🍢\n\n今日宵夜推薦🌙：「九點宵夜」\n\n距離校門口「步行4️⃣分鐘」\n\n詳細資訊：https://maps.app.goo.gl/ispwMDMHTVdiCGHd9?g_st=com.google.maps.preview.copy",
         "登登登登～🍢\n\n今日宵夜推薦🌙：「蜜汁燒烤」\n\n距離校門口「步行4️⃣分鐘」\n\n詳細資訊：https://maps.app.goo.gl/96acEQGgEqv8Dy8o6?g_st=com.google.maps.preview.copy",
         "登登登登～🍢\n\n今日宵夜推薦🌙：「關東煮砂鍋麵」\n\n距離校門口「步行4️⃣分鐘」\n\n詳細資訊：https://maps.app.goo.gl/JmMhCtMzmJRnWzyE8?g_st=com.google.maps.preview.copy",
         "登登登登～🍢\n\n今日宵夜推薦🌙：「胖老爹」\n\n距離校門口「步行5️⃣分鐘」\n\n詳細資訊：https://maps.app.goo.gl/5cRRR9AdB4cjkA5G9?g_st=com.google.maps.preview.copy",
-        "登登登登～🍢\n\n今日宵夜推薦🌙：「7-11」\n\n距離校門口「步行5️⃣分鐘」\n\n詳細資訊：https://maps.app.goo.gl/ZYidyJXrEWxPNraq8",
         "登登登登～🍢\n\n今日宵夜推薦🌙：「滿大碗」\n\n距離校門口「步行5️⃣分鐘」\n\n詳細資訊：https://maps.app.goo.gl/HZjpYNPUJhPKjQmz5?g_st=com.google.maps.preview.copy",
         "登登登登～🍢\n\n今日宵夜推薦🌙：「7-11」\n\n距離校門口「步行5️⃣分鐘」\n\n詳細資訊：https://maps.app.goo.gl/11eTn77FMNNGhKwh7?g_st=com.google.maps.preview.copy",
-        "登登登登～🍢\n\n今日宵夜推薦🌙：「原鄉人甘草芭樂」\n\n距離校門口「步行6️⃣分鐘」\n\n詳細資訊：https://maps.app.goo.gl/KgaHHdjnrd8JAzaL6",
         "登登登登～🍢\n\n今日宵夜推薦🌙：「謝記燒烤」\n\n距離校門口「步行6️⃣分鐘」\n\n詳細資訊：https://maps.app.goo.gl/c9dSYgdAipvyLnV96",
         "登登登登～🍢\n\n今日宵夜推薦🌙：「買辣麻辣燙」\n\n距離校門口「步行6️⃣分鐘」\n\n詳細資訊：https://maps.app.goo.gl/tk6JceELNNRsEKx38",
-        "登登登登～🍢\n\n今日宵夜推薦🌙：「紅燈籠臭豆腐」\n\n距離校門口「步行6️⃣分鐘」\n\n詳細資訊：https://maps.app.goo.gl/hJrYjNingTGz9HuG6?g_st=com.google.maps.preview.copy",
-        "登登登登～🍢\n\n今日宵夜推薦🌙：「85度C-彰化師大店」\n\n距離校門口「步行6️⃣分鐘」\n\n詳細資訊：https://maps.app.goo.gl/EtgducAqaHskKnKZ8?g_st=com.google.maps.preview.copy",
         "登登登登～🍢\n\n今日宵夜推薦🌙：「潮麻吉-香雞潮牌」\n\n距離校門口「步行7️⃣分鐘」\n\n詳細資訊：https://maps.app.goo.gl/vQ9updFvxGTTtAFe7",
-        "登登登登～🍢\n\n今日宵夜推薦🌙：「清原芋圓」\n\n距離校門口「步行7️⃣分鐘」\n\n詳細資訊：https://maps.app.goo.gl/kUv44hoDRwk5KmKEA",
-        "登登登登～🍢\n\n今日宵夜推薦🌙：「森ㄧ食堂」\n\n距離校門口「步行7️⃣分鐘」\n\n詳細資訊：https://maps.app.goo.gl/brty7jEBMD248gwBA",
         "登登登登～🍢\n\n今日宵夜推薦🌙：「老攤豆花」\n\n距離校門口「步行8️⃣分鐘」\n\n詳細資訊：https://maps.app.goo.gl/ZZLCv6HxGrw6LDbz8?g_st=com.google.maps.preview.copy",
         "登登登登～🍢\n\n今日宵夜推薦🌙：「董家炸雞」\n\n距離校門口「步行8️⃣分鐘」\n\n詳細資訊：https://maps.app.goo.gl/ePtePrugH9PsoPrv6?g_st=com.google.maps.preview.copy",
         "登登登登～🍢\n\n今日宵夜推薦🌙：「艾克島X’s island bar」\n\n距離校門口「步行9️⃣分鐘」\n\n詳細資訊：https://maps.app.goo.gl/TcT3h7h9daJCZZYd9?g_st=com.google.maps.preview.copy",
         "登登登登～🍢\n\n今日宵夜推薦🌙：「有間水餃店」\n\n距離校門口「步行1️⃣0️⃣分鐘」\n\n詳細資訊：https://maps.app.goo.gl/2jiSMwtgewcSUaPo9?g_st=com.google.maps.preview.copy",
-        "登登登登～🍢\n\n今日宵夜推薦🌙：「永大藥房」\n\n距離校門口「步行1️⃣1️⃣分鐘」\n\n詳細資訊：https://maps.app.goo.gl/Lmg4v6STtGo8ZaHg6?g_st=com.google.maps.preview.copy",
         "登登登登～🍢\n\n今日宵夜推薦🌙：「台化阿欽擔仔麵」\n\n距離校門口「步行1️⃣2️⃣分鐘」\n\n詳細資訊：https://maps.app.goo.gl/qb8JAqHuKZXRbEeZ7?g_st=com.google.maps.preview.copy"     
     ],
 
@@ -275,7 +262,6 @@ responses = {
         "登登登登～🍰\n\n今日點心推薦🥞：「故鄉滷味」\n\n距離校門口「步行2️⃣分鐘」\n\n詳細資訊：https://maps.app.goo.gl/a3a6i3nMfhEV4FUk6?g_st=com.google.maps.preview.copy",
         "登登登登～🍰\n\n今日點心推薦🥞：「麥仕佳 烘焙坊」\n\n距離校門口「步行2️⃣分鐘」\n\n詳細資訊：https://maps.app.goo.gl/GwB313VKRhfzxdGVA",
         "登登登登～🍰\n\n今日點心推薦🥞：「爆Q美式炸雞」\n\n距離校門口「步行2️⃣分鐘」\n\n詳細資訊：https://maps.app.goo.gl/T2qKp5iduLCrwwqH7",
-        "登登登登～🍰\n\n今日點心推薦🥞：「享點雞蛋糕」\n\n距離校門口「步行3️⃣分鐘」\n\n詳細資訊：https://maps.app.goo.gl/2Cny6Doti9JFxGhD8?g_st=com.google.maps.preview.copy",
         "登登登登～🍰\n\n今日點心推薦🥞：「無名店剉冰」\n\n距離校門口「步行3️⃣分鐘」\n\n詳細資訊：https://maps.app.goo.gl/DKbJGWU8tZFSTdFG6?g_st=com.google.maps.preview.copy",
         "登登登登～🍰\n\n今日點心推薦🥞：「甜點子豆花店」\n\n距離校門口「步行3️⃣分鐘」\n\n詳細資訊：https://maps.app.goo.gl/6ciGdfN2YNhRb4t57?g_st=com.google.maps.preview.copy",
         "登登登登～🍰\n\n今日點心推薦🥞：「鼎豆芋圓」\n\n距離校門口「步行3️⃣分鐘」\n\n詳細資訊：https://maps.app.goo.gl/1LGoFMHU6LBmkS7w7",
@@ -313,14 +299,14 @@ responses = {
         "登登登登～🍰\n\n今日點心推薦🥞：「品佳豆花」\n\n距離校門口「步行9️⃣分鐘」\n\n詳細資訊：https://maps.app.goo.gl/jKrz51U35Fpt4Sf46?g_st=com.google.maps.preview.copy",
         "登登登登～🍰\n\n今日點心推薦🥞：「奇奇甜品」\n\n距離校門口「步行9️⃣分鐘」\n\n詳細資訊：https://maps.app.goo.gl/4Rie7ZCaSxmsDdUu7?g_st=com.google.maps.preview.copy",
         "登登登登～🍰\n\n今日點心推薦🥞：「有間水餃店」\n\n距離校門口「步行1️⃣0️⃣分鐘」\n\n詳細資訊：https://maps.app.goo.gl/2jiSMwtgewcSUaPo9?g_st=com.google.maps.preview.copy",
-        "登登登登～🍰\n\n今日點心推薦🥞：「永大藥房」\n\n距離校門口「步行1️⃣1️⃣分鐘」\n\n詳細資訊：https://maps.app.goo.gl/Lmg4v6STtGo8ZaHg6?g_st=com.google.maps.preview.copy",
         "登登登登～🍰\n\n今日點心推薦🥞：「不只好食」\n\n距離校門口「步行1️⃣1️⃣分鐘」\n\n詳細資訊：https://maps.app.goo.gl/bNRmAJmeea38741z7?g_st=com.google.maps.preview.copy",
         "登登登登～🍰\n\n今日點心推薦🥞：「豆花伯傳統豆花」\n\n距離校門口「步行1️⃣2️⃣分鐘」\n\n詳細資訊：https://maps.app.goo.gl/sWp36Nzg1hs5HkV39?g_st=com.google.maps.preview.copy"
 
     ],
 
     "飲料": [
-        "登登登登～🥤\n\n今日飲料推薦🍹：「水云茶堂」\n\n距離校門口「步行1️⃣分鐘」\n\n詳細資訊：https://maps.app.goo.gl/amRVrmPMBk2urZQDA",
+        "登登登登～🥤\n\n今日飲料推薦🍹：「水云茶堂」\n\n距離校門口「步行1️⃣分鐘」\n\n詳細資訊：https://maps.app.goo.gl/hQNDfQnoTqHrLNWT7",
+        "登登登登～🥤\n\n今日飲料推薦🍹：「花茶大師」\n\n距離校門口「步行1️⃣分鐘」\n\n詳細資訊：https://maps.app.goo.gl/sj64b3Xgd2NYEUZSA",
         "登登登登～🥤\n\n今日飲料推薦🍹：「7-11」\n\n距離校門口「步行1️⃣分鐘」\n\n詳細資訊：https://maps.app.goo.gl/5J2rsuzTbaCBqPqJ9?g_st=com.google.maps.preview.copy",
         "登登登登～🥤\n\n今日飲料推薦🍹：「50嵐」\n\n距離校門口「步行1️⃣分鐘」\n\n詳細資訊：https://maps.app.goo.gl/MDUXhVUTsdmByeyC8?g_st=com.google.maps.preview.copy",
         "登登登登～🥤\n\n今日飲料推薦🍹：「隨緣珍珠奶茶」\n\n距離校門口「步行1️⃣分鐘」\n\n詳細資訊：https://maps.app.goo.gl/4HL4iUcbYm4f9Qkm7",
@@ -370,7 +356,7 @@ def handle_message(event):
     if user_message in responses:
         reply_text = random.choice(responses[user_message])
     else:
-        reply_text = "呱？Sorry，我們無法個別回覆您😞請點選「早餐」、「午餐」、「晚餐」、「宵夜」、「點心」、「飲料」來獲得推薦吧！\n\n如果有任何問題或建議，歡迎填寫表單來告訴我們唷～\nhttps://forms.gle/57cf7gsHoRMuPyhN6"
+        reply_text = "呱？Sorry，我們無法個別回覆您😞請點選「選單上的品項」來獲得推薦吧！\n\n如果有任何問題或建議，歡迎填寫表單來告訴我們唷～\nhttps://forms.gle/57cf7gsHoRMuPyhN6"
 
     with ApiClient(configuration) as api_client:
         line_bot_api = MessagingApi(api_client)
